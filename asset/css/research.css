@@ -33,7 +33,6 @@
     height: auto;
     margin: auto;
     padding-bottom: 20px;
-    border: 1px solid black;
 }
 .research_main_header h1{
     text-align: center;
@@ -69,7 +68,7 @@
 }
 .research_card1{
     width: 550px;
-    height: 200px;
+    height: auto;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     margin: 10px;
 }
@@ -110,5 +109,6 @@
         max-width: 550px;
         margin: auto;
         height: auto;
+        margin-top: 20px;
     }
   }

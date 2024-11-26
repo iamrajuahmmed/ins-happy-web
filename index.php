@@ -20,9 +20,7 @@
 <section class="Footer_topsection">
     <div class="footer_logo">
         <img src="image/logo_main.png" alt="">
-
     </div>
-
 </section>
 
 <?php
