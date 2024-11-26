@@ -1,0 +1,112 @@
+.traning{
+    width: 100%;
+    height: auto;
+    padding-top: 100px;
+}
+.traning_header{
+    width: 100%;
+    height: 40vh;
+    background-color: aqua;
+    background-image: url(../../image/bannar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.traning_header h1{
+    backdrop-filter: blur(1px);
+    padding: 15vh 0px 0px 80px;
+    color: #fff;
+    font-size: 35px;
+
+}
+.traning_header h1 a{
+    text-decoration: none;
+    color: #fff;
+}
+.traning_main{
+    width: 100%;
+    height: auto;
+}
+.traning_area{
+    width: 90%;
+    height: auto;
+    margin: auto;
+    padding-bottom: 20px;
+}
+.traning_main_header h1{
+    text-align: center;
+    color: #9A1B28;
+    padding: 10px;
+    font-size: 35px;
+}
+.traning_main_header p{
+    text-align: justify;
+    color: #333;
+}
+.traning_main_header h3{
+    padding: 10px 0px;
+    color: #666;
+}
+.traning_section{
+    display: flex;
+    justify-content: center;
+    padding: 15px 0px;
+}
+.traning_text_area{
+    width: 55%;
+}
+.traning_text_area h2{
+    color: #9A1B28;
+    padding: 5px 0px;
+}
+.traning_text_area span{
+    color: #9A1B28;
+    padding: 5px 0px;
+}
+.traning_text_area p{
+    color: #333;
+    padding: 15px 0px;
+    text-align: justify;
+    padding-right: 10px;
+    font-size: 15px;
+
+}
+.traning_image_area{
+    width: 45%;
+    height: 250px;
+    overflow: hidden;
+    padding: 10px;
+}
+.traning_image_area img{
+    width: 100%;   
+    object-fit: contain;
+    
+}
+.Future_sessions h2{
+    color: #333;
+}
+.Future_sessions ol{
+    padding-left: 25px;
+}
+.Future_sessions ol li{
+    color: #666;
+    padding: 5px;
+    font-weight: 600;
+
+}
+
+@media only screen and (max-width: 1050px) {
+    .traning_header h1{
+        padding: 15vh 0px 0px 30px;
+    }
+    .traning_section{
+        display: block;
+        justify-content: center;
+    }
+    .traning_text_area{
+        width: 100%;
+    }
+    .traning_image_area{
+        width: 100%;
+    }
+  }

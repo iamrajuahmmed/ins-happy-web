@@ -1,0 +1,137 @@
+.contact{
+    width: 100%;
+    height: auto;
+    padding-top: 100px;
+}
+.contact_header{
+    width: 100%;
+    height: 40vh;
+    background-color: aqua;
+    background-image: url(../../image/bannar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.contact_header h1{
+    backdrop-filter: blur(1px);
+    padding: 15vh 0px 0px 80px;
+    color: #fff;
+    font-size: 35px;
+
+}
+.contact_header h1 a{
+    text-decoration: none;
+    color: #fff;
+}
+.contact_from{
+    width: 100%;
+    height: auto;
+
+}
+.contact_us{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    color: #9A1B28;
+}
+.contact_us h1{
+    padding: 10px;
+    font-size: 35px;
+}
+.contact_area{
+    width: 90%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+}
+.contact_text{
+    width: 50%;
+    
+}
+.contact_text{
+    padding: 20px 0px;
+}
+.contact_text p{
+    color: #333;
+    font-size: 20px;
+    padding-right: 10px;
+}
+.contact_text p a{
+    color: #9A1B28;
+}
+.contact_main_form{
+    width: 50%;
+}
+.contact_main_form form{
+    width: 90%;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 20px;
+}
+.form_input_div label{
+    font-size: 15px;
+    font-weight: 600;
+    color: #333;
+
+}
+.form_input_div input{
+    width: 100%;
+    padding: 5px;
+    font-size: 15px;
+    background-color: #fff;
+    border: 1px solid #e4e4e4;
+    margin: 7px 0px;
+
+}
+.form_input_div textarea{
+    width: 100%;
+    height: 150px;
+    padding: 5px;
+    font-size: 15px;
+    background-color: #fff;
+    border: 1px solid #e4e4e4;
+    margin: 5px 0px;
+
+}
+.form_input_div button{
+    width: 150px;
+    padding: 10px;
+    background-color: green;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    color: #fff;
+    margin-top: 20px;
+}
+.form_input_div button:hover{
+    background-color: #fff;
+    color: #9A1B28;
+    border: 1px solid #9A1B28;
+}
+.form_input_div span{
+    text-align: center;
+    color: #9A1B28;
+    padding: 0px 10px;
+}
+
+@media only screen and (max-width: 1050px) {
+    .contact_header h1{
+        padding: 15vh 0px 0px 30px;
+    }
+    .contact_area{
+        display: block;
+    }
+    .contact_text{
+        width: 100%;
+        
+    }
+    .contact_main_form{
+        width: 100%;
+    }
+    .contact_main_form form{
+        width: 100%;
+        max-width: 450px;
+        margin: auto;
+    }
+  }

@@ -1,0 +1,91 @@
+.login_from{
+    width: 100%;
+    height: auto;
+    padding-top: 100px;
+}
+.login_header{
+    width: 100%;
+    height: 40vh;
+    background-color: aqua;
+    background-image: url(../../image/bannar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.login_header h1{
+    backdrop-filter: blur(1px);
+    padding: 15vh 0px 0px 80px;
+    color: #fff;
+    font-size: 35px;
+
+}
+.login_header h1 a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.header_login h1{
+    text-align: center;
+    color: #9A1B28;
+    padding-bottom: 10px;
+}
+.login_main{
+    
+    width: 350px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.login_main form{
+    width: 100%;
+    
+}
+.login_main label{
+    font-size: 15px;
+}
+.login_main input{
+    width: 100%;
+    padding: 5px;
+    font-size: 15px;
+    background-color: #fff;
+    border: 1px solid #e4e4e4;
+    margin: 5px 0px;
+
+}
+.login_input_from{
+    padding: 5px 0px;
+}
+.login_submit_btn{
+    text-align: center;
+    margin: 10px;
+
+}
+.login_submit_btn button{
+    width: 150px;
+    padding: 10px;
+    background-color: green;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    color: #fff;
+}
+.login_submit_btn button:hover{
+    background-color: #fff;
+    color: #9A1B28;
+    border: 1px solid #9A1B28;
+}
+.signup_submit_btn p{
+    color: #333;
+    font-size: 14px;
+}
+.signup_submit_btn p a{
+    color: #9A1B28;
+}
+
+@media only screen and (max-width: 1050px) {
+    .login_header h1{
+        text-align: center;
+        padding: 15vh 0px 0px 30px;
+    
+    }
+  }

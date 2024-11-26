@@ -1,0 +1,114 @@
+.research{
+    width: 100%;
+    height: auto;
+    padding-top: 100px;
+}
+.research_header{
+    width: 100%;
+    height: 40vh;
+    background-color: aqua;
+    background-image: url(../../image/bannar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.research_header h1{
+    backdrop-filter: blur(1px);
+    padding: 15vh 0px 0px 80px;
+    color: #fff;
+    font-size: 35px;
+
+}
+.research_header h1 a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.research_main{
+    width: 100%;
+    height: auto;
+}
+.research_area{
+    width: 90%;
+    height: auto;
+    margin: auto;
+    padding-bottom: 20px;
+    border: 1px solid black;
+}
+.research_main_header h1{
+    text-align: center;
+    color: #9A1B28;
+    padding: 10px;
+    font-size: 35px;
+}
+.research_main_header p{
+    text-align: justify;
+    color: #333;
+}
+.research_main_header ul{
+    padding-left: 25px;
+}
+.research_main_header ul li{
+    color: #666;
+    padding: 5px;
+    font-weight: 600;
+}
+.research_main_header h3{
+    color: #666;
+    padding: 10px 0px;
+}
+.research_main_header p a{
+    color: #9A1B28;
+}
+.research_card{
+    padding-top: 40px;
+}
+.research_card_section{
+    display: flex;
+    justify-content: center;
+}
+.research_card1{
+    width: 550px;
+    height: 200px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    margin: 10px;
+}
+.research_card_icon{
+    width: 50px;
+    height: auto;
+    border-radius: 50%;
+    margin: auto;
+    padding: 20px;
+}
+.research_card_icon i{
+    color: #9A1B28;
+    font-size: 50px;
+}
+.research_card_text{
+    padding: 10px;
+}
+.research_card_text h3{
+    color: #9A1B28;
+    text-align: center;
+}
+.research_card_text p{
+    color: #666;
+    text-align: center;
+    padding: 10px;
+}
+
+@media only screen and (max-width: 1050px) {
+    .research_header h1{
+        padding: 15vh 0px 0px 30px;
+    }
+    .research_card_section{
+        display: block;
+        justify-content: center;
+    }
+    .research_card1{
+        width: 90%;
+        max-width: 550px;
+        margin: auto;
+        height: auto;
+    }
+  }

@@ -1,0 +1,79 @@
+.about_us_header{
+    width: 100%;
+    height: auto;
+    padding-top: 100px;
+}
+.about_us_main{
+    width: 100%;
+    height: 40vh;
+    background-color: aqua;
+    background-image: url(../../image/bannar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.about_us_header_text h1{
+    backdrop-filter: blur(1px);
+    padding: 15vh 0px 0px 80px;
+    color: #fff;
+    font-size: 35px;
+}
+.about_us_header_text h1 a{
+    text-decoration: none;
+    color: #fff;
+}
+.about_us{
+    width: 100%;
+    height: auto;
+}
+.about_Description{
+    width: 90%;
+    margin: auto;
+}
+.about_Description h1{
+    text-align: center;
+    padding: 10px;
+    color: #9A1B28;
+    font-size: 35px;
+}
+.about_text{
+    display: flex;
+}
+.about_main_text{
+    width: 50%;
+}
+.about_main_text p{
+    padding: 10px 0px;
+    color: #333;
+    text-align: justify;
+}
+.about_main_text p a{
+    color: #9A1B28;
+}
+.about_main_text  ul{
+    padding-left: 30px;
+}
+.about_main_text h2{
+    text-align: center;
+    color: #9A1B28;
+    padding: 10px;
+}
+.about_main_image{
+    width: 50%;
+}
+.about_main_image img{
+    width: 100%;
+}
+
+@media only screen and (max-width: 1050px) {
+    .about_text{
+        display: block;
+        
+    }
+    .about_main_text{
+        width: 100%;
+    }
+    .about_main_image{
+        width: 100%;
+    }
+  }
