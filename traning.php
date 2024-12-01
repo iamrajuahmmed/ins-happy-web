@@ -10,7 +10,7 @@
 
 <section class="traning_main">
     <div class="traning_area">
-        <div class="traning_main_header">
+        <div class="traning_main_header animation">
             <h1>Traning</h1>
             <p>The IOH training component shall provide the skills for leadership in public services with a curriculum based on ethical leadership, social harmony, conflict resolution, mediation, and the well-being of the larger community.</p>
             <h3>Upcoming training sessions</h3>
@@ -18,7 +18,7 @@
             <h3>Previous sessions that we have held or supported</h3>
         </div>
         <!-- Girls for Girls: Global Mentoring Initiative -->
-        <div class="traning_section">
+        <div class="traning_section animation">
             <div class="traning_text_area">
                 <h2>Girls for Girls: Global Mentoring Initiative </h2>
                 <span>December 12, 2019</span>
@@ -26,13 +26,13 @@
                 <p><a href="#">Learn More</a></p>
 
             </div>
-            <div class="traning_image_area">
+            <div class="traning_image_area animation">
                 <img src="image/g4g.jpg" alt="">
                 
             </div>
         </div>
         <!-- Adaptive Leadership Workshop -->
-        <div class="traning_section">
+        <div class="traning_section animation">
             <div class="traning_text_area">
                 <h2>Adaptive Leadership Workshop </h2>
                 <span>December 2, 2019</span>
@@ -47,7 +47,7 @@
 
         </div>
         <!-- Conflict and Cooperation in Asia -->
-        <div class="traning_section">
+        <div class="traning_section animation">
             <div class="traning_text_area">
                 <h2>“Conflict and Cooperation in Asia” at the Boston University Pardee School of Global Studies </h2>
                 <span>by Kinga Tshering, Jun 2018 </span>
@@ -61,7 +61,7 @@
             </div>
         </div>
         <!-- Conflict and Cooperation in Asia -->
-        <div class="traning_section">
+        <div class="traning_section animation">
             <div class="traning_text_area">
                 <h2>Standing for Election: Perspectives on Public Service</h2>
                 <span> by Kinga Tshering and David Razu Aznar, Feb 2017</span>
@@ -74,7 +74,7 @@
                 
             </div>
         </div>
-        <div class="Future_sessions">
+        <div class="Future_sessions animation">
             <h2>Future sessions that we hope to hold or support</h2>
             <ol>
                 <li>The Art of Persuasion </li>

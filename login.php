@@ -5,7 +5,7 @@
     <div class="login_header">
         <h1><a href="index.php">Home</a> > Login</h1>
     </div>
-    <div class="login_main">
+    <div class="login_main animation">
         <div class="header_login">
             <h1>Login</h1>
         </div>

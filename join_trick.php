@@ -5,7 +5,7 @@
     <div class="join_trick_header">
         <h1>Harvard Bhutan Winter Trek 2024</h1>
     </div>
-    <div class="join_trick">
+    <div class="join_trick animation">
         <div class="header_signup">
             <h1>Join Now</h1>
         </div>

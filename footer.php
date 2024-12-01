@@ -11,3 +11,4 @@
 
 
 <script src="asset/java/main.js"></script>
+<script src="asset/java/animation.js"></script>

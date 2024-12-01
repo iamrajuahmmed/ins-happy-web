@@ -5,7 +5,7 @@
     <div class="signup_header">
         <h1> <a href="index.php">Home</a> > Register Now</h1>
     </div>
-    <div class="signup_main">
+    <div class="signup_main animation">
         <div class="header_signup">
             <h1>Register Now</h1>
         </div>

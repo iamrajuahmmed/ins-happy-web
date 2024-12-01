@@ -6,7 +6,7 @@
         <div class="slider_image">
             <img src="image/bannar.jpg" alt="">
         </div>
-        <div class="slider_text">
+        <div class="slider_text animation">
             <p>Welcome to Institute of Happiness</p>
             <h1>Harvard Bhutan Winter Trek 2024</h1>
             <a href="join_trick.php"><button>Join Now</button></a>
@@ -14,7 +14,7 @@
     </div>   
 </section>
 
-<section class="About_us_index">
+<section class="About_us_index animation">
 
 </section>
 <section class="Footer_topsection">

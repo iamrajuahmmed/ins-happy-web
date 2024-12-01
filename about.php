@@ -13,7 +13,7 @@
 <section class="about_us">
     <div class="about_Description">
         <h1>About us</h1>
-        <div class="about_text">
+        <div class="about_text animation">
             <div class="about_main_text">
                 <p>We are inspired by the Kingdom of Bhutan’s philosophy of Gross National Happiness (GNH). The Institute of Happiness (IOH) is an evidence-based think and do tank that seeks to be a thought center for Bhutanese GNH experience. The institute will serve as an accumulator for GNH philosophy and present the alternative development paradigm for actors in societal structure for harmony .
                     <br><br>
@@ -30,7 +30,7 @@
                     Interested in <a href="signup.php">joining us</a> ? View open positions with the IOH.</p>
 
             </div>
-            <div class="about_main_image">
+            <div class="about_main_image animation">
                 <img src="image/about_us.png" alt="">
 
             </div>

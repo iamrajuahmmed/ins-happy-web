@@ -12,13 +12,13 @@
     <div class="contact_us">
         <h1>Get in touch</h1>
     </div>
-    <div class="contact_area">
+    <div class="contact_area animation">
         <div class="contact_text">
             <p>We invite your communication! Please use this form and a member of the Institute will be in touch with you as soon as possible.
             <br><br>Interested in <a href="signup.php">joining us</a>? <a href="signup.php">View open positions</a> with the IOH. </p>
 
         </div>
-        <div class="contact_main_form">
+        <div class="contact_main_form animation">
             <form action="#">
                 <div class="form_input_div">
                     <label for="fulName"> Full Name:</label><br>
